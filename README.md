@@ -43,6 +43,6 @@
 
 ![Ritu's GitHub stats](https://github-readme-stats.vercel.app/api?username=rituparna-ui&theme=radical&show_icons=true&count_private=true&include_all_commits=true)
 
-![Ritu's GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=rituparna-ui&theme=cobalt&date_format=M%20j%5B%2C%20Y%5D)
+![Ritu's GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=rituparna-ui&theme=radical&date_format=M%20j%5B%2C%20Y%5D)
 
 ![Ritu's Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rituparna-ui&layout=compact&theme=tokyonight)
